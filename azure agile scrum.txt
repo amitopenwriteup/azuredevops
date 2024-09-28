@@ -1,0 +1,3 @@
+https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#track-work-with-different-work-item-types
+
+pipeline syntax
